@@ -1,6 +1,7 @@
 ---
 name: Request a access permission
 about: Request a access permission (Such as MySQL, MongoDB, Redis, etc.)
+title: "[DATE]: [FEATURE NAME]"
 labels: bug
 assignees: tig4605246
 ---
